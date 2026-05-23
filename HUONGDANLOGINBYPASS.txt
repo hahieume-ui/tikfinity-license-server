@@ -1,0 +1,1 @@
+Upload 4 file: server.js package.json Procfile nixpacks.toml. KHONG upload database.json. Test /version phai hien login-bypass-fixed-2.1.0. Vao /admin bam Login la vao dashboard.
